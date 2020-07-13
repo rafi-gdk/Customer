@@ -12,6 +12,7 @@
 	<groupId>com.sonu</groupId>
 	<artifactId>Customer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>Customer</name>
 	<description>My Practice</description>
 
